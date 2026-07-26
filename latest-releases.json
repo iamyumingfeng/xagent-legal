@@ -1,0 +1,10 @@
+{
+  "ios": {
+    "version": "1.0.8",
+    "appStoreId": "REPLACE_WITH_IOS_APP_ID"
+  },
+  "macos_mas": {
+    "version": "1.0.7",
+    "appStoreId": "REPLACE_WITH_MAC_APP_ID"
+  }
+}
